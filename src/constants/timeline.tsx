@@ -7,8 +7,7 @@ export const timeline = [
     responsibilities: [
       "Create design concepts and prototypes, through Figma designs to ReactJS web apps",
       "Build a cohesive Design System from design to coded components that is ADA compliant",
-      "Develop Information Architecture (IA) and content strategy",
-      "Communicate and present research, insights, and concepts to stakeholders and c-level",
+      "Develop Information Architecture research, & concepts to stakeholders",
     ],
   },
   {

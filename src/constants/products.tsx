@@ -62,7 +62,7 @@ export const products = [
       "Redesigned E-commerce platform",
     thumbnail: bb,
     images: [bb],
-    stack: ["Nextjs", "Tailwindcss"],
+    stack: ["Bootstrap", "CustomJS"],
     slug: "beachbody",
     content: (
       <div>
@@ -83,7 +83,7 @@ export const products = [
       "A beautiful and comprehensive iPad app.",
     thumbnail: ct,
     images: [ct],
-    stack: ["Nextjs", "Tailwindcss"],
+    stack: ["CustomCSS"],
     slug: "lexus",
     content: (
       <div>
