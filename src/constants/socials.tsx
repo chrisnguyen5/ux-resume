@@ -8,7 +8,7 @@ import {
 
 export const socials = [
   {
-    href: "http://chrisnguyen.x10host.com",
+    href: "https://chrisnguyen-portfolio.vercel.app/",
     label: "Portfolio",
     icon: IconAppWindow,
   },
