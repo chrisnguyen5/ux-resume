@@ -20,7 +20,7 @@ export const products = [
       "A landing page that caters to targeted audience.",
     thumbnail: yam,
     images: [yam],
-    stack: ["Bootstap"],
+    stack: ["Bootstrap"],
     slug: "yamaha",
     content: (
       <div>
