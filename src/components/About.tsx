@@ -47,19 +47,6 @@ export default function About() {
           and a connoisseur of awesome design. Welcome to my corner of the
           digital world!
         </Paragraph>
-        <Paragraph className=" mt-4">
-          Since the early days of my journey, I&apos;ve been captivated by the
-          art of crafting exceptional digital experiences, tech, & AI. As a developer, I
-          thrive on turning lines of code into functional and elegant solutions.
-          My goal is to not just create software, but to build digital marvels
-          that seamlessly merge form and function.
-        </Paragraph>
-
-        <Paragraph className=" mt-4">
-          But my journey doesn&apos;t stop at coding. With a heart full of words
-          and a mind brimming with ideas, I&apos;ve ventured into the realm of
-          vibe coding and creating SAAS projects.
-        </Paragraph>
         
         <Paragraph className=" mt-4">
           Through my resume, I aim to share my insights, experiences, and

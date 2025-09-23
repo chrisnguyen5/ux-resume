@@ -32,7 +32,7 @@ export const Sidebar = () => {
               <Navigation setOpen={setOpen} />
             </div>
             <div onClick={() => isMobile() && setOpen(false)}>
-              <Badge href="/resume" text="Read Resume" />
+              <Badge href="/resume" text="Resume" />
             </div>
           </motion.div>
         )}
@@ -106,7 +106,7 @@ const SidebarHeader = () => {
   return (
     <div className="flex space-x-2">
       <Image
-        src="/images/me.jpg"
+        src="/images/me2.jpg"
         alt="Avatar"
         height="40"
         width="40"

@@ -9,8 +9,19 @@ import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterk
 import yam from "public/images/yamaha.jpg";
 import yam1 from "public/images/yamaha1.jpg";
 import boeing from "public/images/boeing.jpg";
+import boeing2 from "public/images/boeing2.jpg";
+import boeing3 from "public/images/boeing3.jpg";
+import boeing4 from "public/images/boeing4.jpg";
+import boeing5 from "public/images/boeing5.jpg";
+import boeing6 from "public/images/boeing6.jpg";
 import bb from "public/images/bb.jpg";
+import bb1 from "public/images/bb1.jpg";
+import bb2 from "public/images/bb2.jpg";
+import bb3 from "public/images/bb3.jpg";
+import bb4 from "public/images/bb4.jpg";
+import bb5 from "public/images/bb5.jpg";
 import ct from "public/images/ct.jpg";
+import ct2 from "public/images/ct2.jpg";
 
 export const products = [
   {
@@ -18,8 +29,8 @@ export const products = [
     title: "Yamaha YVN",
     description:
       "A landing page that caters to targeted audience.",
-    thumbnail: yam,
-    images: [yam],
+    thumbnail: yam1,
+    images: [yam, yam1],
     stack: ["Bootstrap"],
     slug: "yamaha",
     content: (
@@ -39,8 +50,8 @@ export const products = [
     description:
       "Online catalog for training and maintenance.",
     thumbnail: boeing,
-    images: [boeing],
-    stack: ["CustomJS", "Custom CSS"],
+    images: [boeing2, boeing4, boeing3, boeing6, boeing5],
+    stack: ["Custom JS", "Custom CSS"],
     slug: "boeing",
     content: (
       <div>
@@ -61,7 +72,7 @@ export const products = [
     description:
       "Redesigned E-commerce platform",
     thumbnail: bb,
-    images: [bb],
+    images: [bb1, bb2, bb3, bb4, bb5],
     stack: ["Bootstrap", "CustomJS"],
     slug: "beachbody",
     content: (
@@ -82,7 +93,7 @@ export const products = [
     description:
       "A beautiful and comprehensive iPad app.",
     thumbnail: ct,
-    images: [ct],
+    images: [ct, ct2],
     stack: ["CustomCSS"],
     slug: "lexus",
     content: (
